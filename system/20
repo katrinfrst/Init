@@ -1,0 +1,8 @@
+# List all existing users on the VM
+
+cd /etc
+cat passwd | awk -F: '{print $1}'
+
+OR 
+
+cut -d: -f1,3 /etc/passwd | cut -d: -f1

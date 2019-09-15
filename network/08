@@ -1,0 +1,6 @@
+# Find the provider of slash16.org
+# Use the whois command in Linux to find information about a domain
+# Information about provider is in Name Server.
+
+whois slash16.org | grep "Name Server" | awk '{print $3}'
+Echo Amazon Web Server

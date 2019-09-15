@@ -1,0 +1,10 @@
+# Use the output of the previous command to find the name and IP address of the device that makes the link between you (local network) and the outside world
+
+83-69-219-253.in-addr.mastertelecom.ru (83.69.219.253)  2.534 ms  2.303 ms  2.211 ms
+mail.neoresurs.ru (217.67.176.130)  0.619 ms  0.540 ms  0.615 ms
+217-67-176-205.in-addr.mastertelecom.ru (217.67.176.205)  1.696 ms  1.802 ms  1.701 ms
+ae11-227.rt.mr.msk.ru.retn.net (87.245.253.69)  1.397 ms  1.308 ms  1.282 ms
+ae1-5.rt.irx.fkt.de.retn.net (87.245.232.244)  34.826 ms  35.925 ms  35.140 ms
+52.46.166.248 (52.46.166.248)  34.944 ms  35.063 ms  37.036 ms
+
+# NAT 83-69-219-253.in-addr.mastertelecom.ru (83.69.219.253)  2.534 ms  2.303 ms  2.211 ms

@@ -1,0 +1,6 @@
+# List all real users on the VM
+
+# human users have UIDs starting at 1000, so we can filter out the non-humans:
+# https://askubuntu.com/questions/257421/list-all-human-users
+
+cut -d: -f1,3 /etc/passwd | egrep ':[0-9]{4}$' | cut -d: -f1

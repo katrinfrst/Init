@@ -1,0 +1,3 @@
+# Explain how connect yourself as new user. (With graphic session and ssh session)
+
+ssh aernie@127.0.0.1 -p4774
